@@ -1,0 +1,8 @@
+on: [push]
+
+job: 
+  my-job:
+    run-om: ubuntu-latest  
+ 
+ steps: 
+    -
